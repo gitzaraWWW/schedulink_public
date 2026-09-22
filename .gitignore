@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.local
+**/*firebase-adminsdk*.json
+**/*service-account*.json
+**/serviceAccountKey.json
+**/firebase-service-account*.json
+dist/
+build/
+.DS_Store
+Thumbs.db
